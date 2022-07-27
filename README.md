@@ -1,4 +1,8 @@
 # BetBetter
 
 ## Final project for Database Concepts course
-Created a website where a user could utilize a neural network with 78% accuracy to predict the winner of any given NFL game. Spreads and team info were webscraped from Draftkings.com and stored in a database which interacted with the website. Users could also store their previous bets and whether they were successful or not.  
+Goal statement: To create a web app to accurately predict the winner of any given NFL game to provide a better way to bet.
+
+Results: Neural network with 78% accuracy 
+
+Process: Spreads and other game info was webscraped from draftkings.com and stored in database to interact with web app. Users could also store their previous bets and whether they were successful or not. 
